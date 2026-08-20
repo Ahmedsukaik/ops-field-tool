@@ -1,0 +1,30 @@
+{
+  "name": "Field Tool",
+  "short_name": "Field Tool",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F2F3F0",
+  "theme_color": "#1B5E4B",
+  "icons": [
+    {
+      "src": "n-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "n-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "n-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
